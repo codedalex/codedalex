@@ -42,14 +42,20 @@
 
 <h4 align="left">
   - 🔭 I’m a **Software Engineer**
-  - 📚 I'm currently learning **Flutter** for app development.<br>
-  - 💬 Ask me about Node.JS, MongoDB, Express.JS, SQL, AWS, HTML, CSS, JavaScript, React & DSA, Python, and other       software development relations.<br>
+  
+  - 📚 I'm currently learning **Flutter** for app development
+  
+  - 💬 Ask me about Node.JS, MongoDB, Express.JS, SQL, AWS, HTML, CSS, JavaScript, React & DSA, Python, and other software development relations.
+
   - 📫 How to reach me;
         **me@alexmutonga.com**
         **admin@codewithalex.tech**
   - 🌏 Visit to my <a href="https://alexmutonga.com/" >Portfolio</a>
+
   - 📃 Look at my Resume
-  - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/byte40) 
+    
+  - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/byte40)
+    
   - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 
@@ -137,6 +143,27 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
 </div>
+
+
+<h2 align="center">Languages</h2>
+
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" height="40" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
+</div>
+
 
 
 <h3 align="left">🔥   My Stats :</h3>
