@@ -49,9 +49,12 @@
   - 💬 Ask me about Node.JS, MongoDB, Express.JS, SQL, AWS, HTML, CSS, JavaScript, React & DSA, Python, and other software development relations.
 
   - 📫 How to reach me;
+    <br>
         **me@alexmutonga.com**
-
-    **admin@codewithalex.tech**
+    </br>
+    <br>
+      **admin@codewithalex.tech**
+    </br>
     
   - 🌏 Visit to my <a href="https://alexmutonga.com/" >Portfolio</a>
 
