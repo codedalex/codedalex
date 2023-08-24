@@ -179,9 +179,9 @@
 </div>
 
   <p align="center">
-    <a href="https://github.com/vaibhzz101"><span>
+    <a href="https://github.com/byte40"><span>
         <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhzz101&theme=github_dark" width="100%" />
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byte40&theme=github_dark" width="100%" />
       </span></a>
   </p>
 
