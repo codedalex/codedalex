@@ -34,7 +34,7 @@
 </div>
 
 </p>
-</br
+</br>
 
 
 <h3 align="left">👩‍💻  About Me</h3>
