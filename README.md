@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<h4 align="left">- 🔭 I’m a Software Engineer<br>- 📚 I'm currently learning Flutter for app development.<br>- 💬 Ask me about Node.JS, MongoDB, Express.JS, SQL, AWS, HTML, CSS, JavaScript, React & DSA, Python, and other software development relations.<br><br>📫 How to reach me<br>> me@alexmutonga.com<br>>admin@codewithalex.tech<br><br>🌏 Visit to my Portfolio<br><br>📃 Look at my Resume<br><br>👨‍💻 All my projects are available at my Git_Hub<br><br>⚡ Fun fact World is Ending soon, So better commit your code before you....</h4>
+<h4 align="left">- 🔭 I’m a **Software Engineer**<br>- 📚 I'm currently learning **Flutter** for app development.<br>- 💬 Ask me about Node.JS, MongoDB, Express.JS, SQL, AWS, HTML, CSS, JavaScript, React & DSA, Python, and other software development relations.<br><br>📫 How to reach me<br>> **me@alexmutonga.com**<br>>**admin@codewithalex.tech**<br><br>🌏 Visit to my <a href="https://alexmutonga.com/" >Portfolio</a><br><br>📃 Look at my Resume<br><br>👨‍💻 All my projects are available at my Git_Hub<br><br>⚡ Fun fact World is Ending soon, So better commit your code before you....</h4>
 
 ###
 
