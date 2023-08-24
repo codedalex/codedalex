@@ -41,6 +41,7 @@
 
 
 <h4 align="left">
+  
   - 🔭 I’m a **Software Engineer**
   
   - 📚 I'm currently learning **Flutter** for app development
@@ -49,7 +50,9 @@
 
   - 📫 How to reach me;
         **me@alexmutonga.com**
-        **admin@codewithalex.tech**
+
+    **admin@codewithalex.tech**
+    
   - 🌏 Visit to my <a href="https://alexmutonga.com/" >Portfolio</a>
 
   - 📃 Look at my Resume
