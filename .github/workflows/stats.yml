@@ -1,0 +1,24 @@
+name: Generate GitHub Stats Images
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jstrieb/github-stats@v1
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          username: codedalex
+          repositories_ignore: "private-repo-1, private-repo-2"
+          exclude:
+          include_private: true
+          private_token: ${{ secrets.GH_TOKEN }}
+          max_languages: 12
+          language_count_weight: 0.5
+          language_size_weight: 0.5
+          language_recent_weight: 0
