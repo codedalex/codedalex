@@ -1,15 +1,156 @@
-<!-- Header with dynamic typing effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Alex+Mutonga;Software+Engineer+from+Nairobi%2C+Kenya;Full-Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
-</p>
+<div align="center">
+  <!-- 3D Animated Header - Replace URL with a custom Spline or Three.js animation -->
+  <a href="https://github.com/codedalex">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d67ff,100:0a1930&height=200&section=header&text=Alex%20Mutonga&desc=Software%20Engineer%20|%203D%20Web%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&descAlignY=55" width="100%" alt="Banner"/>
+  </a>
+</div>
 
-<!-- Profile Views Counter (Real-time) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codedalex&style=for-the-badge&color=0366D6" alt="profile views" />
-</p>
+<div align="center">
+  <!-- Animated typing effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3D67FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Three.js+%26+3D+Web+Specialist;Creative+Animator;Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
 
-<!-- Social Media Badges -->
-<p align="center">
+<!-- Animated Badge Section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/codedalex/Fizzi-3D-Website/stargazers&query=length&color=3D67FF&label=Fizzi-3D-Website Stars&logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/codedalex&query=public_repos&color=3D67FF&label=Public Repos&logo=github&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=codedalex&style=for-the-badge&color=3D67FF" alt="Profile Views" />
+</div>
+
+<!-- About Me Section with 3D Animation -->
+<h2>👨‍💻 About Me</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <ul>
+          <li>🔭 I'm currently working on <b>3D web experiences and interactive applications</b></li>
+          <li>🌱 I'm learning <b>Node, Express, MongoDB, Framer Motion, Figma, C#, .NET</b></li>
+          <li>💼 Specialized in <b>Three.js, React, TypeScript, and WebGL</b></li>
+          <li>📫 Reach me at <a href="mailto:info@codedalex.com">info@codedalex.com</a></li>
+          <li>🌐 Portfolio: <a href="https://codedalex.com">codedalex.com</a></li>
+        </ul>
+      </td>
+      <td width="40%">
+        <!-- Replace this with your own 3D avatar or animation -->
+        <img width="100%" src="https://www.mixamo.com/.../...animated.gif" alt="3D Avatar" />
+        <!-- You can use a Spline.design animation here too -->
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Real-time GitHub Stats using custom GitHub Actions workflow -->
+<h2>📊 Live GitHub Stats</h2>
+
+<!-- This section uses a custom GitHub Actions workflow to generate accurate stats -->
+<div align="center">
+  <!-- Custom Stats Card from custom API or GitHub Actions generated SVG -->
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/overview.svg#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/overview.svg#gh-light-mode-only"
+      media="(prefers-color-scheme: light)"
+    />
+    <img width="49%" src="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/overview.svg" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/languages.svg#gh-light-mode-only"
+      media="(prefers-color-scheme: light)"
+    />
+    <img width="49%" src="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/languages.svg" />
+  </picture>
+</div>
+
+<!-- Weekly Contribution Graph with animation -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codedalex&custom_title=Alex's%20Contribution%20Graph&bg_color=0D1117&color=3D67FF&line=3D67FF&point=3D67FF&area=true&hide_border=true" alt="Activity Graph">
+</div>
+
+<!-- Animated commit streak with accurate API data -->
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=codedalex&background=0D1117&stroke=3D67FF&ring=3D67FF&fire=3D67FF&currStreakNum=FFFFFF&currStreakLabel=3D67FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="Contribution Streak" />
+</div>
+
+<!-- 3D Contribution Calendar -->
+<div align="center">
+  <h2>🔥 Contributions</h2>
+  <a href="https://github.com/codedalex">
+    <img src="https://raw.githubusercontent.com/codedalex/codedalex/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Calendar" width="100%" />
+  </a>
+  <br/><br/>
+  <!-- Use this for a 3D contribution calendar (requires setup) -->
+  <a href="https://github.com/codedalex">
+    <img src="https://cdn.jsdelivr.net/gh/codedalex/codedalex/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  </a>
+</div>
+
+<!-- Featured Repositories with 3D Cards -->
+<h2>🚀 Featured Projects</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <!-- Fizzi-3D-Website Card with animated preview -->
+  <a href="https://github.com/codedalex/Fizzi-3D-Website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedalex&repo=Fizzi-3D-Website&theme=react&bg_color=0D1117&border_color=3D67FF" />
+  </a>
+  
+  <!-- 3d_dev_portfolio Card -->
+  <a href="https://github.com/codedalex/3d_dev_portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedalex&repo=3d_dev_portfolio&theme=react&bg_color=0D1117&border_color=3D67FF" />
+  </a>
+  
+  <!-- ThreeJSportfolio Card -->
+  <a href="https://github.com/codedalex/ThreeJSportfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedalex&repo=ThreeJSportfolio&theme=react&bg_color=0D1117&border_color=3D67FF" />
+  </a>
+  
+  <!-- Storage-management-system Card -->
+  <a href="https://github.com/codedalex/Storage-management-system">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedalex&repo=Storage-management-system&theme=react&bg_color=0D1117&border_color=3D67FF" />
+  </a>
+</div>
+
+<!-- Skills with Animated Progress Bars -->
+<h2>🛠️ Technologies & Tools</h2>
+
+<div align="center">
+  <!-- Frontend Technologies -->
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,html,css,tailwind" />
+  
+  <!-- Backend Technologies -->
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cs,dotnet,python,java" />
+  
+  <!-- Tools -->
+  <h3>Tools & Design</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,ae,ps" />
+</div>
+
+<!-- 3D WebGL visualization (requires custom implementation) -->
+<div align="center">
+  <h2>🌐 3D Skills Visualization</h2>
+  <!-- Replace this with the actual path to your WebGL visualization -->
+  <a href="https://codedalex.com/skills-globe">
+    <img src="https://codedalex.com/assets/skills-globe.gif" width="100%" alt="3D Skills Globe" />
+  </a>
+</div>
+
+<!-- Connect with me Section with animated icons -->
+<h2>🔗 Connect With Me</h2>
+
+<div align="center">
   <a href="https://twitter.com/alex_coded_hub" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
@@ -25,123 +166,7 @@
   <a href="mailto:info@codedalex.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-<!-- Animated Banner or Introduction -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/codedalex/codedalex/main/assets/banner.gif" width="100%" alt="Banner">
 </div>
 
-## 💫 About Me
-
-- 🔭 I'm currently working on **innovative web applications**
-- 🌱 I'm currently learning **Node, Express, MongoDB, Framer Motion, Figma, C#, .NET**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **Web Development, JavaScript, React**
-- 📫 Reach me at: **info@codedalex.com**
-- 🌐 Portfolio: [codedalex.com](https://codedalex.com)
-
-<!-- GitHub Stats with automatic updates -->
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codedalex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Alex's GitHub Stats" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedalex&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codedalex&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="50%" alt="Top Languages"/>
-</div>
-
-<!-- Dynamic GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codedalex&theme=nord&column=7&no-frame=true&margin-w=15" width="100%" alt="Trophies"/>
-</div>
-
-<!-- Recently Played Music from Spotify -->
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vblvxqse5qspvdebnjqc3nwdlu&count=3" alt="Recently Played Spotify Songs"/>
-</div>
-
-<!-- Current Projects Section with GitHub Repository Cards -->
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/codedalex/your-project-1">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codedalex&repo=your-project-1&theme=tokyonight&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/codedalex/your-project-2">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codedalex&repo=your-project-2&theme=tokyonight&hide_border=true" alt="Project 2"/>
-  </a>
-</div>
-
-<!-- Wakatime Stats for coding activity -->
-## ⏱️ Weekly Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codedalex&theme=tokyonight&hide_border=true" alt="Weekly Coding Stats"/>
-</div>
-
-<!-- Skills Section with modern progress bars -->
-## 🛠️ Skills & Technologies
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3>Frontend</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-          <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="Chart.js"/>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3>Backend</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-          <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-          <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" alt=".NET"/>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3>Tools & Deployment</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
-          <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-          <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-          <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- GitHub Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedalex&custom_title=Alex's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=38bdae&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-<!-- GitHub Contribution Calendar Snake Animation -->
-<div align="center">
-  <img src="https://github.com/codedalex/codedalex/blob/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
-</div>
-
-<!-- Footer Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
+<!-- Footer with wave animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d67ff,100:0a1930&height=120&section=footer" width="100%" />
