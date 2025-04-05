@@ -168,5 +168,8 @@
   </a>
 </div>
 
+
+
+
 <!-- Footer with wave animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d67ff,100:0a1930&height=120&section=footer" width="100%" />
