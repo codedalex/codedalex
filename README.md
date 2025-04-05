@@ -58,7 +58,7 @@
       srcset="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/overview.svg#gh-light-mode-only"
       media="(prefers-color-scheme: light)"
     />
-    <img width="49%" src="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/overview.svg" />
+    <img src="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/overview.svg" />
   </picture>
   <picture>
     <source 
@@ -69,7 +69,7 @@
       srcset="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/languages.svg#gh-light-mode-only"
       media="(prefers-color-scheme: light)"
     />
-    <img width="49%" src="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/languages.svg" />
+    <img src="https://raw.githubusercontent.com/codedalex/github-stats/master/generated/languages.svg" />
   </picture>
 </div>
 
