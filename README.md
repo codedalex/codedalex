@@ -86,14 +86,10 @@
 <!-- 3D Contribution Calendar -->
 <div align="center">
   <h2>🔥 Contributions</h2>
-  <a href="https://github.com/codedalex">
-    <img src="https://raw.githubusercontent.com/codedalex/codedalex/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Calendar" width="100%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/codedalex/codedalex/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Calendar" />
   <br/><br/>
   <!-- Use this for a 3D contribution calendar (requires setup) -->
-  <a href="https://github.com/codedalex">
-    <img src="https://cdn.jsdelivr.net/gh/codedalex/codedalex/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/codedalex/codedalex/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </div>
 
 <!-- Featured Repositories with 3D Cards -->
@@ -167,9 +163,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
-
-
 
 <!-- Footer with wave animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d67ff,100:0a1930&height=120&section=footer" width="100%" />
